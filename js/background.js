@@ -1,21 +1,3 @@
-// img bg
-/* const images = [
-  "photo (1).png",
-  "photo (2).png",
-  "photo (3).png",
-  "photo (4).png",
-  "photo (5).png",
-  "photo (6).png",
-  "photo (7).png",
-  "photo (8).png",
-];
-
-const chosenImg = images[Math.floor(Math.random() * images.length)];
-
-document.body.style.backgroundImage = `url('../bg/${chosenImg}')`; */
-
-
-// radial-gradient bg
 const colors = [
   "#ef5777",
   "#575fcf",
