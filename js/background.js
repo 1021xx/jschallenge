@@ -1,5 +1,5 @@
 // img bg
-const images = [
+/* const images = [
   "photo (1).png",
   "photo (2).png",
   "photo (3).png",
@@ -12,11 +12,11 @@ const images = [
 
 const chosenImg = images[Math.floor(Math.random() * images.length)];
 
-document.body.style.backgroundImage = `url('../bg/${chosenImg}')`;
+document.body.style.backgroundImage = `url('../bg/${chosenImg}')`; */
 
 
 // radial-gradient bg
-/* const colors = [
+const colors = [
   "#ef5777",
   "#575fcf",
   "#4bcffa",
@@ -47,6 +47,6 @@ function handleClick() {
   document.body.style.background = `radial-gradient(circle, ${a}, ${b})`;
 }
 
-document.body.style.background =  handleClick(); */
+document.body.style.background =  handleClick();
 
 
