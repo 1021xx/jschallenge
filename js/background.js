@@ -32,3 +32,10 @@ function handleClick() {
 document.body.style.background =  handleClick();
 
 
+
+
+
+
+
+
+// ...
